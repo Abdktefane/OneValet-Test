@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OneValetChallenge</string>
+    <string name="lbl_home">Home</string>
+    <string name="lbl_my_devices">My Devices</string>
+    <string name="lbl_settings">Settings</string>
+    <string name="lbl_devices">Devices</string>
+    <string name="lbl_device_price">Price: %1$s</string>
+    <string name="lbl_devices_search">Devices Search ...</string>
+    <string name="lbl_device_details_header">Details: %1$s</string>
+    <string name="lbl_name_details">Name - %1$s</string>
+    <string name="lbl_type_details">Type - %1$s</string>
+    <string name="lbl_price_details">Price - %1$s</string>
+    <string name="lbl_description_details">Description - %1$s</string>
+    <string name="lbl_theme">Theme :</string>
+</resources>
